@@ -9,7 +9,7 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  DOCKER_IMAGE_NAME: JM-Acn-azure-ttt
+  DOCKER_IMAGE_NAME: JM-Acn-azure-ttt #test
   AZURE_WEBAPP_NAME: JM-Acn-ttt-app
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
